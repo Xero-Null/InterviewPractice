@@ -35,3 +35,25 @@ int* TwoSum::TwoSumFromHash(int *nums, int target)
 	// Return -1, -1 because the target was not found
 	return new int[2]{ -1, -1 };
 }
+
+vector<int> TwoSum::TwoSum_LeetCode(vector<int>& nums, int target)
+{
+	vector<int> res;
+	unordered_map<unsigned int, unsigned short> map; // In this example, we can use a short to reduce memory usage (short = 2 bytes, int = 4 bytes)
+	unordered_map<unsigned int, unsigned short>::iterator it;
+	for (int i = 0; i < nums.size(); i++)
+	{
+		it = map.find(target - nums[i]);
+		if (it != map.end())
+		{
+			res.push_back(it->second);
+			res.push_back(i);
+			return res;
+		}
+		else
+			map.insert(make_pair(nums[i], i));
+	}
+	res.push_back(-1);
+	res.push_back(-1);
+	return res;
+}
