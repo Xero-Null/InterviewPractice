@@ -54,6 +54,5 @@ vector<int> TwoSum::TwoSum_LeetCode(vector<int>& nums, int target)
 			map.insert(make_pair(nums[i], i));
 	}
 	res.push_back(-1);
-	res.push_back(-1);
 	return res;
 }
