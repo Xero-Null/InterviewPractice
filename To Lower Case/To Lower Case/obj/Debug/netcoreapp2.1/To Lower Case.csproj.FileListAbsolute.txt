@@ -9,3 +9,14 @@ C:\Users\Matt\Desktop\To Lower Case\To Lower Case\obj\Debug\netcoreapp2.1\To Low
 C:\Users\Matt\Desktop\To Lower Case\To Lower Case\obj\Debug\netcoreapp2.1\To Lower Case.AssemblyInfo.cs
 C:\Users\Matt\Desktop\To Lower Case\To Lower Case\obj\Debug\netcoreapp2.1\To Lower Case.dll
 C:\Users\Matt\Desktop\To Lower Case\To Lower Case\obj\Debug\netcoreapp2.1\To Lower Case.pdb
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\bin\Debug\netcoreapp2.1\To Lower Case.deps.json
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\bin\Debug\netcoreapp2.1\To Lower Case.runtimeconfig.json
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\bin\Debug\netcoreapp2.1\To Lower Case.runtimeconfig.dev.json
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\bin\Debug\netcoreapp2.1\To Lower Case.dll
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\bin\Debug\netcoreapp2.1\To Lower Case.pdb
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\obj\Debug\netcoreapp2.1\To Lower Case.csprojAssemblyReference.cache
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\obj\Debug\netcoreapp2.1\To Lower Case.csproj.CoreCompileInputs.cache
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\obj\Debug\netcoreapp2.1\To Lower Case.AssemblyInfoInputs.cache
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\obj\Debug\netcoreapp2.1\To Lower Case.AssemblyInfo.cs
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\obj\Debug\netcoreapp2.1\To Lower Case.dll
+D:\Algorithm_Practice_Examples\To Lower Case\To Lower Case\obj\Debug\netcoreapp2.1\To Lower Case.pdb

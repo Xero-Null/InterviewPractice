@@ -1,5 +1,15 @@
 ﻿using System;
 
+/*
+    Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
+ 
+    Input: "Hello"
+    Output: "hello"
+
+    Results: Runtime: 96 ms, faster than 75.70% of C# online submissions for To Lower Case.
+             Memory Usage: 20.5 MB, less than 19.79% of C# online submissions for To Lower Case.
+*/
+
 namespace To_Lower_Case
 {
     class Program

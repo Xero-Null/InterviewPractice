@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\Desktop\\To Lower Case\\To Lower Case\\To Lower Case.csproj",
+      "projectUniqueName": "D:\\Algorithm_Practice_Examples\\To Lower Case\\To Lower Case\\To Lower Case.csproj",
       "projectName": "To Lower Case",
-      "projectPath": "C:\\Users\\Matt\\Desktop\\To Lower Case\\To Lower Case\\To Lower Case.csproj",
+      "projectPath": "D:\\Algorithm_Practice_Examples\\To Lower Case\\To Lower Case\\To Lower Case.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\Desktop\\To Lower Case\\To Lower Case\\obj\\",
+      "outputPath": "D:\\Algorithm_Practice_Examples\\To Lower Case\\To Lower Case\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
