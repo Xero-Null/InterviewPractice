@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\BrickWall\BrickWall\bin\Debug\netcoreapp2.1\BrickWall.deps.json
+C:\Users\Matt\Desktop\BrickWall\BrickWall\bin\Debug\netcoreapp2.1\BrickWall.runtimeconfig.json
+C:\Users\Matt\Desktop\BrickWall\BrickWall\bin\Debug\netcoreapp2.1\BrickWall.runtimeconfig.dev.json
+C:\Users\Matt\Desktop\BrickWall\BrickWall\bin\Debug\netcoreapp2.1\BrickWall.dll
+C:\Users\Matt\Desktop\BrickWall\BrickWall\bin\Debug\netcoreapp2.1\BrickWall.pdb
+C:\Users\Matt\Desktop\BrickWall\BrickWall\obj\Debug\netcoreapp2.1\BrickWall.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\BrickWall\BrickWall\obj\Debug\netcoreapp2.1\BrickWall.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\BrickWall\BrickWall\obj\Debug\netcoreapp2.1\BrickWall.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\BrickWall\BrickWall\obj\Debug\netcoreapp2.1\BrickWall.AssemblyInfo.cs
+C:\Users\Matt\Desktop\BrickWall\BrickWall\obj\Debug\netcoreapp2.1\BrickWall.dll
+C:\Users\Matt\Desktop\BrickWall\BrickWall\obj\Debug\netcoreapp2.1\BrickWall.pdb
