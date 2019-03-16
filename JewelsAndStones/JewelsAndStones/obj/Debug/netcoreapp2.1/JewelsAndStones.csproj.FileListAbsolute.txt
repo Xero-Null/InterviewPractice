@@ -1,0 +1,11 @@
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\bin\Debug\netcoreapp2.1\JewelsAndStones.deps.json
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\bin\Debug\netcoreapp2.1\JewelsAndStones.runtimeconfig.json
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\bin\Debug\netcoreapp2.1\JewelsAndStones.runtimeconfig.dev.json
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\bin\Debug\netcoreapp2.1\JewelsAndStones.dll
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\bin\Debug\netcoreapp2.1\JewelsAndStones.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.1\JewelsAndStones.csprojAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.1\JewelsAndStones.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.1\JewelsAndStones.AssemblyInfoInputs.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.1\JewelsAndStones.AssemblyInfo.cs
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.1\JewelsAndStones.dll
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.1\JewelsAndStones.pdb
