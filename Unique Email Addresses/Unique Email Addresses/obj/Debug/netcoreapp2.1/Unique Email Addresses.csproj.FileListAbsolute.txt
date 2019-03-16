@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\bin\Debug\netcoreapp2.1\Unique Email Addresses.deps.json
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\bin\Debug\netcoreapp2.1\Unique Email Addresses.runtimeconfig.json
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\bin\Debug\netcoreapp2.1\Unique Email Addresses.runtimeconfig.dev.json
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\bin\Debug\netcoreapp2.1\Unique Email Addresses.dll
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\bin\Debug\netcoreapp2.1\Unique Email Addresses.pdb
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\obj\Debug\netcoreapp2.1\Unique Email Addresses.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\obj\Debug\netcoreapp2.1\Unique Email Addresses.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\obj\Debug\netcoreapp2.1\Unique Email Addresses.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\obj\Debug\netcoreapp2.1\Unique Email Addresses.AssemblyInfo.cs
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\obj\Debug\netcoreapp2.1\Unique Email Addresses.dll
+C:\Users\Matt\Desktop\Unique Email Addresses\Unique Email Addresses\obj\Debug\netcoreapp2.1\Unique Email Addresses.pdb
