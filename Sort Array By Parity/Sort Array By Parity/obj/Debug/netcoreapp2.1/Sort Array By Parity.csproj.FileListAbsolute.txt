@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\bin\Debug\netcoreapp2.1\Sort Array By Parity.deps.json
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\bin\Debug\netcoreapp2.1\Sort Array By Parity.runtimeconfig.json
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\bin\Debug\netcoreapp2.1\Sort Array By Parity.runtimeconfig.dev.json
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\bin\Debug\netcoreapp2.1\Sort Array By Parity.dll
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\bin\Debug\netcoreapp2.1\Sort Array By Parity.pdb
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\obj\Debug\netcoreapp2.1\Sort Array By Parity.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\obj\Debug\netcoreapp2.1\Sort Array By Parity.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\obj\Debug\netcoreapp2.1\Sort Array By Parity.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\obj\Debug\netcoreapp2.1\Sort Array By Parity.AssemblyInfo.cs
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\obj\Debug\netcoreapp2.1\Sort Array By Parity.dll
+C:\Users\Matt\Desktop\Sort Array By Parity\Sort Array By Parity\obj\Debug\netcoreapp2.1\Sort Array By Parity.pdb
