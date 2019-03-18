@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\bin\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.deps.json
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\bin\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.runtimeconfig.json
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\bin\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.runtimeconfig.dev.json
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\bin\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.dll
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\bin\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.pdb
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.AssemblyInfo.cs
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.dll
+C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.pdb
