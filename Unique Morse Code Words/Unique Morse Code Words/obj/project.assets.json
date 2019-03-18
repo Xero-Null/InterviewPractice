@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Algorithm_Practice_Examples\\BrickWall\\BrickWall\\BrickWall.csproj",
-      "projectName": "BrickWall",
-      "projectPath": "D:\\Algorithm_Practice_Examples\\BrickWall\\BrickWall\\BrickWall.csproj",
+      "projectUniqueName": "D:\\Algorithm_Practice_Examples\\Unique Morse Code Words\\Unique Morse Code Words\\Unique Morse Code Words.csproj",
+      "projectName": "Unique Morse Code Words",
+      "projectPath": "D:\\Algorithm_Practice_Examples\\Unique Morse Code Words\\Unique Morse Code Words\\Unique Morse Code Words.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "D:\\Algorithm_Practice_Examples\\BrickWall\\BrickWall\\obj\\",
+      "outputPath": "D:\\Algorithm_Practice_Examples\\Unique Morse Code Words\\Unique Morse Code Words\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

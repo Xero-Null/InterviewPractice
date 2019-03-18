@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp2.1\Unique Morse Code Words.deps.json
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp2.1\Unique Morse Code Words.runtimeconfig.json
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp2.1\Unique Morse Code Words.runtimeconfig.dev.json
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp2.1\Unique Morse Code Words.dll
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\bin\Debug\netcoreapp2.1\Unique Morse Code Words.pdb
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp2.1\Unique Morse Code Words.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp2.1\Unique Morse Code Words.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp2.1\Unique Morse Code Words.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp2.1\Unique Morse Code Words.AssemblyInfo.cs
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp2.1\Unique Morse Code Words.dll
+C:\Users\Matt\Desktop\Unique Morse Code Words\Unique Morse Code Words\obj\Debug\netcoreapp2.1\Unique Morse Code Words.pdb
