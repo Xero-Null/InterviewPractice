@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\bin\Debug\netcoreapp2.1\Squares of a Sorted Array.deps.json
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\bin\Debug\netcoreapp2.1\Squares of a Sorted Array.runtimeconfig.json
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\bin\Debug\netcoreapp2.1\Squares of a Sorted Array.runtimeconfig.dev.json
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\bin\Debug\netcoreapp2.1\Squares of a Sorted Array.dll
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\bin\Debug\netcoreapp2.1\Squares of a Sorted Array.pdb
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\obj\Debug\netcoreapp2.1\Squares of a Sorted Array.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\obj\Debug\netcoreapp2.1\Squares of a Sorted Array.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\obj\Debug\netcoreapp2.1\Squares of a Sorted Array.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\obj\Debug\netcoreapp2.1\Squares of a Sorted Array.AssemblyInfo.cs
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\obj\Debug\netcoreapp2.1\Squares of a Sorted Array.dll
+C:\Users\Matt\Desktop\Squares of a Sorted Array\Squares of a Sorted Array\obj\Debug\netcoreapp2.1\Squares of a Sorted Array.pdb

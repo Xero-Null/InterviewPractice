@@ -30,3 +30,7 @@ Two Sum
 N-Repeated Element in Size 2N Array
 	Runtime: 124 ms, faster than 98.57% of C# online submissions for N-Repeated Element in Size 2N Array.
 	Memory Usage: 30.8 MB, less than 68.18% of C# online submissions for N-Repeated Element in Size 2N Array.
+	
+Squares of a Sorted Array
+	Runtime: 308 ms, faster than 89.71% of C# online submissions for Squares of a Sorted Array.
+	Memory Usage: 41.5 MB, less than 24.29% of C# online submissions for Squares of a Sorted Array.
