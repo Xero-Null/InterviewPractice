@@ -22,3 +22,7 @@ Unique Email Addresses
 Unique Morse Code Words
 	Runtime: 92 ms, faster than 97.90% of C# online submissions for Unique Morse Code Words.
 	Memory Usage: 22.5 MB, less than 36.36% of C# online submissions for Unique Morse Code Words.
+	
+Two Sum
+	Runtime: 248 ms, faster than 99.30% of C# online submissions for Two Sum.
+	Memory Usage: 29 MB, less than 52.64% of C# online submissions for Two Sum.
