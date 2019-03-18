@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\Desktop\\N-Repeated Element in Size 2N Array\\N-Repeated Element in Size 2N Array\\N-Repeated Element in Size 2N Array.csproj",
+      "projectUniqueName": "D:\\Algorithm_Practice_Examples\\N-Repeated Element in Size 2N Array\\N-Repeated Element in Size 2N Array\\N-Repeated Element in Size 2N Array.csproj",
       "projectName": "N-Repeated Element in Size 2N Array",
-      "projectPath": "C:\\Users\\Matt\\Desktop\\N-Repeated Element in Size 2N Array\\N-Repeated Element in Size 2N Array\\N-Repeated Element in Size 2N Array.csproj",
+      "projectPath": "D:\\Algorithm_Practice_Examples\\N-Repeated Element in Size 2N Array\\N-Repeated Element in Size 2N Array\\N-Repeated Element in Size 2N Array.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\Desktop\\N-Repeated Element in Size 2N Array\\N-Repeated Element in Size 2N Array\\obj\\",
+      "outputPath": "D:\\Algorithm_Practice_Examples\\N-Repeated Element in Size 2N Array\\N-Repeated Element in Size 2N Array\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

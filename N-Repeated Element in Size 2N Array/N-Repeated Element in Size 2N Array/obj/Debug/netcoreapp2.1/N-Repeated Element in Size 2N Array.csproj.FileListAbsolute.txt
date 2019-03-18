@@ -9,3 +9,14 @@ C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in 
 C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.AssemblyInfo.cs
 C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.dll
 C:\Users\Matt\Desktop\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.pdb
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\bin\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.deps.json
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\bin\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.runtimeconfig.json
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\bin\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.runtimeconfig.dev.json
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\bin\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.dll
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\bin\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.pdb
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.csprojAssemblyReference.cache
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.csproj.CoreCompileInputs.cache
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.AssemblyInfoInputs.cache
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.AssemblyInfo.cs
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.dll
+D:\Algorithm_Practice_Examples\N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array\obj\Debug\netcoreapp2.1\N-Repeated Element in Size 2N Array.pdb

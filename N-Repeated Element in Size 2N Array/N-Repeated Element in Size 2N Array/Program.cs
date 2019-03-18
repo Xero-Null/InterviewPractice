@@ -20,7 +20,7 @@ using System.Collections.Generic;
     Output: 5
 
     Results: Runtime: 124 ms, faster than 98.57% of C# online submissions for N-Repeated Element in Size 2N Array.
-             Memory Usage: 30.8 MB, less than 68.18% of C# online submissions for N-Repeated Element in Size 2N Array.
+             Memory Usage: 30.7 MB, less than 81.82% of C# online submissions for N-Repeated Element in Size 2N Array.
  */
 
 
@@ -42,17 +42,16 @@ namespace N_Repeated_Element_in_Size_2N_Array
             if (A.Length == 0)
                 return 0;
 
-            Dictionary<int, int> map = new Dictionary<int, int>();
-
+            HashSet<int> hash = new HashSet<int>();
             for (int i = 0; i < A.Length; i++)
             {
-                if (map.ContainsKey(A[i]))
+                if (hash.Contains(A[i]))
                 {
                     return A[i];
                 }
                 else
                 {
-                    map[A[i]] = 1;
+                    hash.Add(A[i]);
                 }
             }
 
