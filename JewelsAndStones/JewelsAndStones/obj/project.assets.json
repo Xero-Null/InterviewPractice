@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\Documents\\Visual Studio 2017\\Projects\\JewelsAndStones\\JewelsAndStones\\JewelsAndStones.csproj",
+      "projectUniqueName": "D:\\Algorithm_Practice_Examples\\JewelsAndStones\\JewelsAndStones\\JewelsAndStones.csproj",
       "projectName": "JewelsAndStones",
-      "projectPath": "C:\\Users\\Matt\\Documents\\Visual Studio 2017\\Projects\\JewelsAndStones\\JewelsAndStones\\JewelsAndStones.csproj",
+      "projectPath": "D:\\Algorithm_Practice_Examples\\JewelsAndStones\\JewelsAndStones\\JewelsAndStones.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\Documents\\Visual Studio 2017\\Projects\\JewelsAndStones\\JewelsAndStones\\obj\\",
+      "outputPath": "D:\\Algorithm_Practice_Examples\\JewelsAndStones\\JewelsAndStones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

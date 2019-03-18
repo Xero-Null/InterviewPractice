@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\Desktop\\Unique Email Addresses\\Unique Email Addresses\\Unique Email Addresses.csproj",
+      "projectUniqueName": "D:\\Algorithm_Practice_Examples\\Unique Email Addresses\\Unique Email Addresses\\Unique Email Addresses.csproj",
       "projectName": "Unique Email Addresses",
-      "projectPath": "C:\\Users\\Matt\\Desktop\\Unique Email Addresses\\Unique Email Addresses\\Unique Email Addresses.csproj",
+      "projectPath": "D:\\Algorithm_Practice_Examples\\Unique Email Addresses\\Unique Email Addresses\\Unique Email Addresses.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\Desktop\\Unique Email Addresses\\Unique Email Addresses\\obj\\",
+      "outputPath": "D:\\Algorithm_Practice_Examples\\Unique Email Addresses\\Unique Email Addresses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
