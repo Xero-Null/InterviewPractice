@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\bin\Debug\netcoreapp2.1\Flipping an Image.deps.json
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\bin\Debug\netcoreapp2.1\Flipping an Image.runtimeconfig.json
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\bin\Debug\netcoreapp2.1\Flipping an Image.runtimeconfig.dev.json
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\bin\Debug\netcoreapp2.1\Flipping an Image.dll
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\bin\Debug\netcoreapp2.1\Flipping an Image.pdb
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\obj\Debug\netcoreapp2.1\Flipping an Image.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\obj\Debug\netcoreapp2.1\Flipping an Image.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\obj\Debug\netcoreapp2.1\Flipping an Image.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\obj\Debug\netcoreapp2.1\Flipping an Image.AssemblyInfo.cs
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\obj\Debug\netcoreapp2.1\Flipping an Image.dll
+C:\Users\Matt\Desktop\Flipping an Image\Flipping an Image\obj\Debug\netcoreapp2.1\Flipping an Image.pdb
