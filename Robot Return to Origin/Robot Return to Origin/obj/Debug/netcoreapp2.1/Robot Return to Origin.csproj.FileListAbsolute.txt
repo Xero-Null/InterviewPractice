@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\bin\Debug\netcoreapp2.1\Robot Return to Origin.deps.json
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\bin\Debug\netcoreapp2.1\Robot Return to Origin.runtimeconfig.json
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\bin\Debug\netcoreapp2.1\Robot Return to Origin.runtimeconfig.dev.json
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\bin\Debug\netcoreapp2.1\Robot Return to Origin.dll
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\bin\Debug\netcoreapp2.1\Robot Return to Origin.pdb
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\obj\Debug\netcoreapp2.1\Robot Return to Origin.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\obj\Debug\netcoreapp2.1\Robot Return to Origin.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\obj\Debug\netcoreapp2.1\Robot Return to Origin.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\obj\Debug\netcoreapp2.1\Robot Return to Origin.AssemblyInfo.cs
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\obj\Debug\netcoreapp2.1\Robot Return to Origin.dll
+C:\Users\Matt\Desktop\Robot Return to Origin\Robot Return to Origin\obj\Debug\netcoreapp2.1\Robot Return to Origin.pdb
